@@ -13,3 +13,9 @@ AS/400 String Related Built-in-Functions:
 6. %Char
 
 7. %Trim
+
+8. %Date
+
+9. %Time
+
+10. %Timestamp
