@@ -1,4 +1,4 @@
-AS/400 String Related Built-in-Functions:
+AS/400 String and Numeric Related Built-in-Functions:
 
 1. %Check
 
@@ -23,4 +23,12 @@ AS/400 String Related Built-in-Functions:
 11. %ScanRPL
 
 12. %XLATE
+
+13. %Dec
+
+14. %EditC
+
+15. %int
+
+16. %EdicW
 
