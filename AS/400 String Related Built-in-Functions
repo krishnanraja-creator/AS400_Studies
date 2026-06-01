@@ -19,3 +19,8 @@ AS/400 String Related Built-in-Functions:
 9. %TrimL
 
 10. %SubSt
+
+11. %ScanRPL
+
+12. %XLATE
+
