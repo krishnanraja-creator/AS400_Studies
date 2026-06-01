@@ -12,10 +12,23 @@ AS/400 String and Numeric Related Built-in-Functions:
 
 6. %Char
 
-7. %Dec
+7. %Trim
 
-8. %EditC
+8. %TrimR
 
-9. %int
+9. %TrimL
 
-10. %EdicW
+10. %SubSt
+
+11. %ScanRPL
+
+12. %XLATE
+
+13. %Dec
+
+14. %EditC
+
+15. %int
+
+16. %EdicW
+
