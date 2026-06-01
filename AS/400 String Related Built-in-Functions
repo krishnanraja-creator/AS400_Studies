@@ -46,4 +46,8 @@ AS/400 String and Numeric Related Built-in-Functions:
 
 23. %Month
 
-24. %Year
+24. %Minutes
+
+25. %Year
+
+26. %Seconds
