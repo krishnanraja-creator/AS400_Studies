@@ -11,3 +11,5 @@ AS/400 String Related Built-in-Functions:
 5. %Replace
 
 6. %Char
+
+7. %Trim
