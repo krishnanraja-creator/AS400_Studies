@@ -38,3 +38,12 @@ AS/400 String and Numeric Related Built-in-Functions:
 
 19. %Timestamp
 
+20. %Diff
+
+21. %SubDt
+
+22. %Day
+
+23. %Month
+
+24. %Year
