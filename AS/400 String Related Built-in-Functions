@@ -7,3 +7,7 @@ AS/400 String Related Built-in-Functions:
 3. %Scan
 
 4. %ScanR
+
+5. %Replace
+
+6. %Char
