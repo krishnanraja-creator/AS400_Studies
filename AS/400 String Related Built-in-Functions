@@ -3,3 +3,7 @@ AS/400 String Related Built-in-Functions:
 1. %Check
 
 2. %CheckR
+
+3. %Scan
+
+4. %ScanR
